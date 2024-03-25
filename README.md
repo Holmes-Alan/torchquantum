@@ -4,7 +4,7 @@
 
 ## Installation
 ```bash
-git clone [https://github.com/mit-han-lab/torchquantum.git](https://github.com/Holmes-Alan/torchquantum.git)
+git clone https://github.com/Holmes-Alan/torchquantum.git
 cd torchquantum
 pip install --editable .
 pip install qiskit_ibm_runtime==0.20.0
