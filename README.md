@@ -70,7 +70,6 @@ qmodule(qdev)
 ```
 
 
-<!--
 ## Basic Usage 2
 
 ```
